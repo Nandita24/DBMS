@@ -78,8 +78,7 @@ movie title.
  
 1. List all the student details studying in fourth semester ‘C’ section. 
 
-2. Compute the total number of male and female students in each semester and in 
-   each section.
+2. Compute the total number of male and female students in each semester and in each section.
    
 3. Create a view of Test1 marks of student USN ‘1BI15CS101’ in all Courses. 
 
